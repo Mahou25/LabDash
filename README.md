@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # lab_dashbord
 
 A new Flutter project.
@@ -18,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 App bottom bar: https://youtu.be/FEvYl8Mzsxw?si=ewM96qoS5Wenubdp
 listViewBuilder: https://youtu.be/k1LxTsmAURU?si=ubTQiMr8VsaPNHcp
 
+=======
+# LabDash
+>>>>>>> origin/main
